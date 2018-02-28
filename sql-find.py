@@ -1,4 +1,4 @@
-from google import search
+from googlesearch import search
 import urllib2
 import socket
 import sys
