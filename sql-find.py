@@ -13,7 +13,7 @@ def credit():
     print '''
 	%s
 	SQL vulnerability finder 
-	https://github.com/maxstreiker/
+	https://github.com/foxstreiker/
 	%s
 	'''% (yel,norm)
 
